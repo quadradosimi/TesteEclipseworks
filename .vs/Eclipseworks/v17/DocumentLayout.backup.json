@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Migrations\\20250416142529_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Eclipseworks\\Migrations\\20250416142529_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB5B88-0D88-43D0-8674-91DF3F6FF641}|TestProject2\\TestProject.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\testproject2\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACB5B88-0D88-43D0-8674-91DF3F6FF641}|TestProject2\\TestProject.csproj|solutionrelative:testproject2\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\controllers\\tarefascontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\controllers\\tarefascontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\entity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\entity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\eclipseworks.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\eclipseworks.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\controllers\\relatorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\controllers\\relatorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\service\\tarefasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\service\\tarefasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\service\\itarefasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\service\\itarefasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\service\\relatoriosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\service\\relatoriosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\service\\projetosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\service\\projetosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\service\\irelatoriosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\service\\irelatoriosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\service\\iprojetosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\service\\iprojetosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\service\\ihistoricosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\service\\ihistoricosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\service\\historicosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\service\\historicosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\model\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\model\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\model\\relatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\model\\projetotarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\model\\projetotarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\model\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\model\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\model\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\model\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\eclipseworks\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}|Eclipseworks\\Eclipseworks.csproj|solutionrelative:eclipseworks\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACB5B88-0D88-43D0-8674-91DF3F6FF641}|TestProject2\\TestProject.csproj|c:\\users\\lenovo\\documents\\testeeclipseworks\\testeclipseworks\\testproject2\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0ACB5B88-0D88-43D0-8674-91DF3F6FF641}|TestProject2\\TestProject.csproj|solutionrelative:testproject2\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250416142529_test.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Migrations\\20250416142529_test.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Migrations\\20250416142529_test.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Migrations\\20250416142529_test.cs",
+              "RelativeToolTip": "Eclipseworks\\Migrations\\20250416142529_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:25:29.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "compose.yml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\compose.yml",
+              "RelativeDocumentMoniker": "Eclipseworks\\compose.yml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\compose.yml",
+              "RelativeToolTip": "Eclipseworks\\compose.yml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-16T13:56:31.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\appsettings.json",
+              "RelativeDocumentMoniker": "Eclipseworks\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\appsettings.json",
+              "RelativeToolTip": "Eclipseworks\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T18:00:10.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TestProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\TestProject2\\TestProject.csproj",
+              "RelativeDocumentMoniker": "TestProject2\\TestProject.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\TestProject2\\TestProject.csproj",
+              "RelativeToolTip": "TestProject2\\TestProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T17:55:24.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Program.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Program.cs",
+              "RelativeToolTip": "Eclipseworks\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:51:10.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TarefasService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\TarefasService.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Service\\TarefasService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\TarefasService.cs",
+              "RelativeToolTip": "Eclipseworks\\Service\\TarefasService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:50:36.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelatoriosService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\RelatoriosService.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Service\\RelatoriosService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\RelatoriosService.cs",
+              "RelativeToolTip": "Eclipseworks\\Service\\RelatoriosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:50:28.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjetosService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\ProjetosService.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Service\\ProjetosService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\ProjetosService.cs",
+              "RelativeToolTip": "Eclipseworks\\Service\\ProjetosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:50:18.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITarefasService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\ITarefasService.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Service\\ITarefasService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\ITarefasService.cs",
+              "RelativeToolTip": "Eclipseworks\\Service\\ITarefasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:50:10.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRelatoriosService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\IRelatoriosService.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Service\\IRelatoriosService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\IRelatoriosService.cs",
+              "RelativeToolTip": "Eclipseworks\\Service\\IRelatoriosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:50:03.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProjetosService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\IProjetosService.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Service\\IProjetosService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\IProjetosService.cs",
+              "RelativeToolTip": "Eclipseworks\\Service\\IProjetosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:49:56.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IHistoricosService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\IHistoricosService.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Service\\IHistoricosService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\IHistoricosService.cs",
+              "RelativeToolTip": "Eclipseworks\\Service\\IHistoricosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:49:48.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Entity\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Entity\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Entity\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Eclipseworks\\Entity\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:48:21.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TarefasController .cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Controllers\\TarefasController .cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Controllers\\TarefasController .cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Controllers\\TarefasController .cs",
+              "RelativeToolTip": "Eclipseworks\\Controllers\\TarefasController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:48:09.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Eclipseworks.http",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Eclipseworks.http",
+              "RelativeDocumentMoniker": "Eclipseworks\\Eclipseworks.http",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Eclipseworks.http",
+              "RelativeToolTip": "Eclipseworks\\Eclipseworks.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-14T17:54:28.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\TestProject2\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject2\\Test1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\TestProject2\\Test1.cs",
+              "RelativeToolTip": "TestProject2\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:55:00.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\.gitignore",
+              "RelativeDocumentMoniker": "Eclipseworks\\.gitignore",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\.gitignore",
+              "RelativeToolTip": "Eclipseworks\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T18:17:50.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HistoricosService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\HistoricosService.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Service\\HistoricosService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Service\\HistoricosService.cs",
+              "RelativeToolTip": "Eclipseworks\\Service\\HistoricosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:49:16.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelatoriosController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Controllers\\RelatoriosController.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Controllers\\RelatoriosController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Controllers\\RelatoriosController.cs",
+              "RelativeToolTip": "Eclipseworks\\Controllers\\RelatoriosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:58.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\Usuario.cs",
+              "RelativeToolTip": "Eclipseworks\\Model\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:49:10.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Model\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\Tarefa.cs",
+              "RelativeToolTip": "Eclipseworks\\Model\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:49:04.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Relatorio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\Relatorio.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Model\\Relatorio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\Relatorio.cs",
+              "RelativeToolTip": "Eclipseworks\\Model\\Relatorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:48:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProjetoTarefas.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\ProjetoTarefas.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Model\\ProjetoTarefas.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\ProjetoTarefas.cs",
+              "RelativeToolTip": "Eclipseworks\\Model\\ProjetoTarefas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:48:53.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\Projeto.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Model\\Projeto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\Projeto.cs",
+              "RelativeToolTip": "Eclipseworks\\Model\\Projeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:48:47.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Historico.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\Historico.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Model\\Historico.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Model\\Historico.cs",
+              "RelativeToolTip": "Eclipseworks\\Model\\Historico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:48:41.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Middlewares\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Eclipseworks\\Middlewares\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:48:29.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProjetosController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Controllers\\ProjetosController.cs",
+              "RelativeDocumentMoniker": "Eclipseworks\\Controllers\\ProjetosController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Controllers\\ProjetosController.cs",
+              "RelativeToolTip": "Eclipseworks\\Controllers\\ProjetosController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:33.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Eclipseworks\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\TesteEclipseworks\\TestEclipseworks\\Eclipseworks\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Eclipseworks\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T17:47:20.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

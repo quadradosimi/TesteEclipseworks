@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject2\TestProject.csproj", "{0ACB5B88-0D88-43D0-8674-91DF3F6FF641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eclipseworks", "Eclipseworks\Eclipseworks.csproj", "{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0739C3-FEE4-48B3-93DE-AD8BDBD4C8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ACB5B88-0D88-43D0-8674-91DF3F6FF641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACB5B88-0D88-43D0-8674-91DF3F6FF641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACB5B88-0D88-43D0-8674-91DF3F6FF641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACB5B88-0D88-43D0-8674-91DF3F6FF641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {995675E7-C688-4E66-932C-8542DC3ED3A3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+services:
+  server:
+    container_name: todo-api
+    build: .
+    ports:
+      - 8080:8080
+    depends_on:
+      - "sql"
+  sql:
+    image: "mcr.microsoft.com/mssql/server:2022-latest"
+    container_name: sql_server_todo
+    ports:
+      - 1433:1433
+    environment:
+      - ACCEPT_EULA=y
+      - MSSQL_SA_PASSWORD=Eclipse#2025

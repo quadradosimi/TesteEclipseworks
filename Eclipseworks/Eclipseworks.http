@@ -1,0 +1,6 @@
+@Eclipseworks_HostAddress = http://localhost:5119
+
+GET {{Eclipseworks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

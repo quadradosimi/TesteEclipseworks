@@ -1,0 +1,139 @@
+[
+  {
+    "ContainingType": "Eclipseworks.Controllers.ProjetosController",
+    "Method": "Get",
+    "RelativePath": "api/Projetos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eclipseworks.Controllers.ProjetosController",
+    "Method": "Post",
+    "RelativePath": "api/Projetos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projetoObject",
+        "Type": "Eclipseworks.Model.Projeto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eclipseworks.Controllers.ProjetosController",
+    "Method": "Delete",
+    "RelativePath": "api/Projetos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eclipseworks.Controllers.RelatoriosController",
+    "Method": "RelatorioMediaTarefasConcluidasUltimoMes",
+    "RelativePath": "api/Relatorios/RelatorioMediaTarefasConcluidasUltimoMes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eclipseworks.Controllers.RelatoriosController",
+    "Method": "RelatorioTarefasConcluidasUltimoMesPorUsuario",
+    "RelativePath": "api/Relatorios/RelatorioTarefasConcluidasUltimoMesPorUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eclipseworks.Controllers.TarefasController",
+    "Method": "Get",
+    "RelativePath": "api/Tarefas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eclipseworks.Controllers.TarefasController",
+    "Method": "Post",
+    "RelativePath": "api/Tarefas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TarefaObject",
+        "Type": "Eclipseworks.Model.Tarefa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eclipseworks.Controllers.TarefasController",
+    "Method": "Put",
+    "RelativePath": "api/Tarefas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tarefasObject",
+        "Type": "Eclipseworks.Model.Tarefa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eclipseworks.Controllers.TarefasController",
+    "Method": "Delete",
+    "RelativePath": "api/Tarefas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

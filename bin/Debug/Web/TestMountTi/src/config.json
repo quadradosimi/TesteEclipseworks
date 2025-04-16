@@ -1,0 +1,4 @@
+{
+  "SERVER_URL": "https://localhost:7251/api/",
+  "TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImp0aSI6IjliNTUwMDdjLTRlOWEtNDRkNy05YTE0LWU1ZWIwYjgxOTZhZSIsImV4cCI6MzMyNzc5Njk2ODEsImlzcyI6InlvdXJkb21haW4uY29tIiwiYXVkIjoieW91cmRvbWFpbi5jb20ifQ.9mD-nj_-Ys0ITU4uydybSxNYRXvMbXOGtGJ3Bv9ygSU"
+}

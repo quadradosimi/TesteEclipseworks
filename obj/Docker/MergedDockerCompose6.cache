@@ -1,0 +1,67 @@
+name: dockercompose11925959859387853300
+services:
+  sqlserver:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Numsey#2021
+    expose:
+      - "1433"
+    hostname: sqlserver
+    image: microsoft/mssql-server-linux:2022-latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "11433"
+        protocol: tcp
+  testmoutsti:
+    build:
+      context: C:\Users\Lenovo\Documents\TesteMoutti\MoutTi\Mouts
+      dockerfile: TestMoutsTi/Dockerfile
+    depends_on:
+      sqlserver:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: testmoutsti
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Lenovo\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Lenovo\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Lenovo\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Lenovo\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose11925959859387853300_default
