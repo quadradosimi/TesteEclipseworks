@@ -11,7 +11,7 @@ Rodar Back-end
 	Abra o projeto .Net 8 com o arquivo Eclipseworks.sln. No arquivo appsettings.json altere a string de conexão inserindo seu IPV4.
 	Seguindo exemplo abaixo:
 	
-		Server=SET_YOUR_PC_IPV4,1433;Database=Todo;User Id=sa;Password=Numsey#2021;encrypt=false
+		Server=SET_YOUR_PC_IPV4,1433;Database=Todo;User Id=sa;Password=Eclipse#2025;encrypt=false
 		
 	Altere a string de conexão apenas onde está escrito "SET_YOUR_PC_IPV4". Para saber seu IPV4 rode o código abaixo no cmd:
 	
