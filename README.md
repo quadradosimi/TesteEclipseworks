@@ -4,7 +4,7 @@
 
 Para rodar a aplicação é necessário fazer o download do projeto no GitHub.
 
-	https://github.com/quadradosim/Eclipseworks.git
+	https://github.com/quadradosimi/TesteEclipseworks.git
 
 Rodar Back-end
 	
