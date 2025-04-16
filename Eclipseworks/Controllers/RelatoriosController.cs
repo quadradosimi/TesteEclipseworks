@@ -30,7 +30,7 @@ public class RelatoriosController : ControllerBase
         {
             return BadRequest(new
             {
-                message = "Uusuário sem permissão para ver relatórios."
+                message = "Usuário sem permissão para ver relatórios."
             });
         }
     }
@@ -42,7 +42,7 @@ public class RelatoriosController : ControllerBase
     {
         var relatorio = await _relatoriosService.RelatorioMediaTarefasConcluidasUltimoMes(idUsuario);
         
-        if (relatorio > 0)
+        if (relatorio > -1)
         {
             return Ok(relatorio);
         }
@@ -50,7 +50,7 @@ public class RelatoriosController : ControllerBase
         {
             return BadRequest(new
             {
-                message = "Uusuário sem permissão para ver relatórios."
+                message = "Usuário sem permissão para ver relatórios."
             });
         }
     }

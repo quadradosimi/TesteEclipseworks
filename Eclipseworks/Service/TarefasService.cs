@@ -29,6 +29,7 @@ namespace Eclipseworks.Service
                 var addTarefa = new Tarefa()
                 {
                     IdProjeto = obj.IdProjeto,
+                    IdUsuario = obj.IdUsuario,
                     Titulo = obj.Titulo,
                     Descricao = obj.Descricao,
                     DataVencimento = obj.DataVencimento,

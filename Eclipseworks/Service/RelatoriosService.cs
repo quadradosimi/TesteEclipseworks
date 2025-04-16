@@ -25,6 +25,11 @@ namespace Eclipseworks.Service
                 }
                 ).Distinct().Count();
 
+                if (totalUsuariosComTarefasConcluidas == 0)
+                {
+                    return 0;
+                }
+
                 var mediaTarefasConcluidasUltimoMes = tarefas.Count() / totalUsuariosComTarefasConcluidas;
 
                 return mediaTarefasConcluidasUltimoMes;
@@ -74,7 +79,7 @@ namespace Eclipseworks.Service
         {
             var usuario = _db.Usuarios.Where(u => u.Id == idUsuario).FirstOrDefault();
 
-            if (usuario.Funcao == "gerente")
+            if (usuario?.Funcao == "gerente")
             {
                 return true;
             }
